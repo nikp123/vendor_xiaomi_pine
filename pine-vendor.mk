@@ -3009,19 +3009,23 @@ PRODUCT_PACKAGES += \
     libaudio_log_utils \
     libsdm-disp-vndapis \
     libthermalclient \
-    QtiTelephonyService \
-    SoterService \
-    datastatusnotification \
-    embms \
-    imssettings \
-    uceShimService \
-    CNEService \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    ConnectionSecurityService \
-    PowerOffAlarm \
-    TimeService \
-    TrustZoneAccessService \
-    WfdCommon
+
+# maybe java?
+#    SoterService \
+#    uceShimService \
+#    ConnectionSecurityService \
+#    TrustZoneAccessService
+
+# definetely java
+#    QtiTelephonyService \
+#    datastatusnotification \
+#    embms \
+#    imssettings \
+#    CNEService \
+#    WfdService \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    PowerOffAlarm \
+#    TimeService \
+#    WfdCommon
